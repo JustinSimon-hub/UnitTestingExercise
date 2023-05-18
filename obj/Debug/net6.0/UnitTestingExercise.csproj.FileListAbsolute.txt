@@ -1,0 +1,15 @@
+/Users/justinsimon/Desktop/repos/repos/UnitTestingExercise/UnitTestingExercise/obj/Debug/net6.0/UnitTestingExercise.csproj.AssemblyReference.cache
+/Users/justinsimon/Desktop/repos/repos/UnitTestingExercise/UnitTestingExercise/obj/Debug/net6.0/UnitTestingExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justinsimon/Desktop/repos/repos/UnitTestingExercise/UnitTestingExercise/obj/Debug/net6.0/UnitTestingExercise.AssemblyInfoInputs.cache
+/Users/justinsimon/Desktop/repos/repos/UnitTestingExercise/UnitTestingExercise/obj/Debug/net6.0/UnitTestingExercise.AssemblyInfo.cs
+/Users/justinsimon/Desktop/repos/repos/UnitTestingExercise/UnitTestingExercise/obj/Debug/net6.0/UnitTestingExercise.csproj.CoreCompileInputs.cache
+/Users/justinsimon/Desktop/repos/repos/UnitTestingExercise/UnitTestingExercise/bin/Debug/net6.0/UnitTestingExercise
+/Users/justinsimon/Desktop/repos/repos/UnitTestingExercise/UnitTestingExercise/bin/Debug/net6.0/UnitTestingExercise.deps.json
+/Users/justinsimon/Desktop/repos/repos/UnitTestingExercise/UnitTestingExercise/bin/Debug/net6.0/UnitTestingExercise.runtimeconfig.json
+/Users/justinsimon/Desktop/repos/repos/UnitTestingExercise/UnitTestingExercise/bin/Debug/net6.0/UnitTestingExercise.dll
+/Users/justinsimon/Desktop/repos/repos/UnitTestingExercise/UnitTestingExercise/bin/Debug/net6.0/UnitTestingExercise.pdb
+/Users/justinsimon/Desktop/repos/repos/UnitTestingExercise/UnitTestingExercise/obj/Debug/net6.0/UnitTestingExercise.dll
+/Users/justinsimon/Desktop/repos/repos/UnitTestingExercise/UnitTestingExercise/obj/Debug/net6.0/refint/UnitTestingExercise.dll
+/Users/justinsimon/Desktop/repos/repos/UnitTestingExercise/UnitTestingExercise/obj/Debug/net6.0/UnitTestingExercise.pdb
+/Users/justinsimon/Desktop/repos/repos/UnitTestingExercise/UnitTestingExercise/obj/Debug/net6.0/UnitTestingExercise.genruntimeconfig.cache
+/Users/justinsimon/Desktop/repos/repos/UnitTestingExercise/UnitTestingExercise/obj/Debug/net6.0/ref/UnitTestingExercise.dll
